@@ -1,4 +1,4 @@
-MIT License
+MIT License branch1
 
 Copyright (c) 2018—preset Artem Zakharchenko
 
